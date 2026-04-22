@@ -1,4 +1,4 @@
-# Object-Orientation (OO)
+# Object-Orientation Programing (OOP)
 
 ## Object-Orientation kya hai?
 Yeh ek technique hai jisme hum apne programming problems ko **objects** ki shakal mein visualize karte hain aur unki **interactions** ko samajhte hain, bilkul real life ki tarah.
