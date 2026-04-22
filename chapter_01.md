@@ -58,7 +58,7 @@ Har cheez ko ek object samjha ja sakta hai:
 
 ---
 
-## OO vs Procedural Paradigm
+## vs Procedural Paradigm
 
 **Object-Oriented:**
 - Focus on objects  
@@ -69,7 +69,7 @@ Har cheez ko ek object samjha ja sakta hai:
 - Functions ko main program mein call kiya jata hai  
 
 
-# 01.2. Model kya hai?
+#  Model kya hai?
 
 Model kisi real ya conceptual cheez ka **abstraction (simple representation)** hota hai.
 
@@ -82,7 +82,7 @@ Humein models ki zarurat hoti hai taake hum reality ke kisi hissa ko asaani se s
 
 ---
 
-# 01.3. OO Models (Object-Oriented Models)
+#  OO Models (Object-Oriented Models)
 
 Programming ke context mein models ka use problem ko samajhne ke liye kiya jata hai **development shuru karne se pehle**.
 
@@ -120,7 +120,7 @@ Hum Object-Oriented models banate hain jismein different **objects** aur unki **
 
 ---
 
-# 01.4. Object-Orientation ke Advantages
+# Object-Orientation ke Advantages
 
 Jaisa ke humne examples mein dekha, Object-Oriented models directly real life se relate karte hain, is liye:
 
@@ -133,7 +133,7 @@ Jaisa ke humne examples mein dekha, Object-Oriented models directly real life se
 
 ---
 
-# 01.5. Object kya hai?
+# Object kya hai?
 
 Object ho sakta hai:
 
@@ -168,7 +168,7 @@ Har object ki apni alag pehchaan hoti hai (chahe do objects same type ke kyun na
 - Student → School bag, book aur pen rakhta hai  
 - Student → Playground mein khelta hai  
 
-# 01.6. Tangible aur Intangible Objects
+#  Tangible aur Intangible Objects
 
 ## Tangible Objects ki Examples
 
@@ -249,7 +249,7 @@ Time ek **intangible (conceptual) object** hai:
 
 ---
 
-# 01.7. Summary
+# Summary
 
 - Model kisi real world scenario ka **abstraction** hota hai jo humein usay samajhne mein madad deta hai  
 - Object-Oriented model kisi problem ko **interacting objects** ki form mein describe karta hai  
