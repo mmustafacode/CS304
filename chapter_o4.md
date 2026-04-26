@@ -60,19 +60,21 @@ Generalization mein base aur child classes ke darmiyan:
 # Example: Line, Circle and Triangle
 
                          
-   Line is shape           Circle is shape        Triangle is shape
+ ```text
+Line is shape        Circle is shape       Triangle is shape
 
-+------------------+     +------------------+     +------------------+
-|       Line       |     |      Circle      |     |     Triangle     |
-+------------------+     +------------------+     +------------------+
-| color            |     | color            |     | color            |
-| vertices         |     | vertices         |     | vertices         |
-| length           |     | radius           |     | angle            |
-+------------------+     +------------------+     +------------------+
-| move()           |     | move()           |     | move()           |
-| setColor()       |     | setColor()       |     | setColor()       |
-| getLength()      |     | computeArea()    |     | computeArea()    |
-+------------------+     +------------------+     +------------------+
++------------------+   +------------------+   +------------------+
+|       Line       |   |      Circle      |   |    Triangle      |
++------------------+   +------------------+   +------------------+
+| color            |   | color            |   | color            |
+| vertices         |   | vertices         |   | vertices         |
+| length           |   | radius           |   | angle            |
++------------------+   +------------------+   +------------------+
+| move()           |   | move()           |   | move()           |
+| setColor()       |   | setColor()       |   | setColor()       |
+| getLength()      |   | computeArea()    |   | computeArea()    |
++------------------+   +------------------+   +------------------+
+
        
                          +------------------+
                          |      Shape       |
@@ -101,3 +103,4 @@ Generalization mein base aur child classes ke darmiyan:
        | computeArea()    |   | getLength()      |   | computeArea()    |
        +------------------+   +------------------+   +------------------+
 
+```
