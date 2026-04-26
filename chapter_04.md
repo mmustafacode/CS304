@@ -1,4 +1,5 @@
-Lecture Contents
+# Lecture Contents
+
 • Generalization     
                 jo common antities or method hota hai multiple classes ka unki ek base class banatay hai then all drive classes usay inherit karti hai .
 
