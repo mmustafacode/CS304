@@ -59,6 +59,9 @@ Generalization mein base aur child classes ke darmiyan:
 
 # Example: Line, Circle and Triangle
 
+                         
+   Line is shape           Circle is shape        Triangle is shape
+
 +------------------+     +------------------+     +------------------+
 |       Line       |     |      Circle      |     |     Triangle     |
 +------------------+     +------------------+     +------------------+
@@ -70,10 +73,7 @@ Generalization mein base aur child classes ke darmiyan:
 | setColor()       |     | setColor()       |     | setColor()       |
 | getLength()      |     | computeArea()    |     | computeArea()    |
 +------------------+     +------------------+     +------------------+
-
-   Line is shape           Circle is shape        Triangle is shape
-
-
+       
                          +------------------+
                          |      Shape       |
                          +------------------+
@@ -101,4 +101,3 @@ Generalization mein base aur child classes ke darmiyan:
        | computeArea()    |   | getLength()      |   | computeArea()    |
        +------------------+   +------------------+   +------------------+
 
-       
