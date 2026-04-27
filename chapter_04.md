@@ -1,18 +1,24 @@
 # Lecture Contents
 
-• Generalization     
+**• Generalization** 
+
                 jo common antities or method hota hai multiple classes ka unki ek base class banatay hai then all drive classes usay inherit karti hai .
 
-• Sub typing (extension)   
-                base class sa inherit karna ka bad drive class ma koch  new method or antitities add karta hai .         
-• Specialization (restriction)   add a condtion 
-                drive class ko base class sa inharit karna ka  bad base class ka data pr drive class ma codition laga dana ka aga 18 sa necha hai to  error es trha  matlab restration laga dana.
-• Overriding
+**• Sub typing (extension)**  
+
+                base class sa inherit karna ka bad drive class ma koch  new method or antitities add karta hai .     
+
+**• Specialization (restriction)**  
+
+               add a condtion drive class ko base class sa inharit karna ka  bad base class ka data pr drive class ma codition laga dana ka aga 18 sa necha hai to  error es trha  matlab restration laga dana.
+
+**• Overriding**
             ek aisa same function jo base class  ma hai usay drive class ma dobara banay to matlab base class ka fuction ko overrid kar dana overriding khalata hai 
-• Abstract classes
+
+**• Abstract classes**
              ek aisa main parent class jis sa ham or classes bana sakta haii eisa khata hai abstract classes
 
-• Concrete classes  
+**• Concrete classes**  
                 drive class ko  Concrete  class khata hai
 
 ## 🔁 Recap – Inheritance
