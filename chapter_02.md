@@ -113,6 +113,9 @@ Hum Information Hiding achieve karte hain:
 Encapsulation ka matlab hai:  
 **“Hum kisi object ki tamam characteristics ko usi object ke andar band (enclose) kar dete hain.”**
 
+**we have enclosed all the characteristics of an object in the object 
+itself**
+
 Encapsulation aur Information Hiding aapas mein bohat closely related concepts hain.  
 👉 Information hiding, encapsulation ke through achieve hoti hai.
 
