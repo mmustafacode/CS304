@@ -369,7 +369,7 @@ Object Oriented Model mein, objects ek dusre ke sath interact karte hain taake k
 
 Aksar ek object dusre kai objects ko services provide karta hai. Ek object dusre objects ke sath association rakhta hai taake wo apne tasks unhein delegate (sop) kar sake.
 
-Is association ko diagram mein ek line ke through represent kiya jata hai, jo arrow head ke sath ya bina arrow head ke bhi ho sakti hai.
+==Is association ko diagram mein ek line ke through represent kiya jata hai, jo arrow head ke sath ya bina arrow head ke bhi ho sakti hai.==
 
 
 ## **05.2 Association ki Kismein (Kinds of Association)**
