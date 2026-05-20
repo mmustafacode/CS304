@@ -1,4 +1,4 @@
-````markdown
+
 # 📘 Lecture 13 — Pointer to Objects & Date Class (Detailed Notes)
 
 ---
@@ -949,5 +949,3 @@ Sets data.
 ---
 
 # ✅ End of Lecture 13 Notes
-
-````
