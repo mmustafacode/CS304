@@ -53,4 +53,9 @@ Below is the curriculum index of the 22 lectures available in this archive. Clic
 | **22** | C++ Inheritance Mechanics | Base vs. Derived class relationship rules, access modes, constructor chaining. | [MD](markdown/chapter_22.md) \| [PDF](pdf/chapter_22.pdf) |
 
 ---
-Made by ❤️ Tehreem-Asghar and mmustafacode [mmustafacode](https://github.com/mmustafacode) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Tehreem--Asghar-pink" alt="Tehreem-Asghar" />
+  <a href="https://github.com/mmustafacode">
+    <img src="https://img.shields.io/badge/and-mmustafacode-blue?style=flat&logo=github" alt="mmustafacode" />
+  </a>
+</p>
